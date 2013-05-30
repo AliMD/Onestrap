@@ -1,0 +1,14 @@
+{
+    "name": "Onestrap",
+    "version": "0.1",
+    "main": ["onestrap.styl"],
+    "author": "Ali Mihandoost",
+    "description": "Onestrap is the best front-end framework for web developers, Contain Bootstrap with 1Grids, Jade, Stylus and Zepto",
+    "keywords": ["Onestrap", "jade", "stylus", "1Grids", "Zepto", "Bootstrap"],
+    "license": "Creative Commons Attribution 3.0",
+    "ignore": [
+        "CHANGELOG.md",
+        "CONTRIBUTING.md",
+        "component.json",
+    ]
+}
